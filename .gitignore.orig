@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+*.map
+*.exe
+*.com
+*.obj
+=======
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5c63f013bc781c512710ca68c7e056d32d1c4a0c
